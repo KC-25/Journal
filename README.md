@@ -49,3 +49,11 @@
 <h3>Abstraction</h3>
 <p>he process of removing or generalizing physical, spatial, or temporal details or attributes in the study of objects or systems to focus.</p>
 <a href="https://en.wikipedia.org/wiki/Abstraction_(computer_science)">Wikipedia</a>
+
+<h3>While Loops</h3>
+<p>A control flow statement that allows code to be executed repeatedly based on a given Boolean condition.</p>
+<a href="https://www.geeksforgeeks.org/java-while-loop-with-examples/">GeeksForGeeks</a>
+
+<h3>For Loops</h3>
+<p>A repetition control structure that allows you to efficiently write a loop that needs to be executed a specific number of times.</p>
+<a href="https://www.tutorialspoint.com/java/java_for_loop.htm">Tutorialspoint</a>
